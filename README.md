@@ -47,6 +47,7 @@ Invalid files → invalid/ folder + SNS alert.
 
 ## SNS Topic
 Lambda chooses the SNS topic based on folder prefix
+
 products/ → PRODUCT_TOPIC  
 
 documents/ → DOCUMENT_TOPIC  
